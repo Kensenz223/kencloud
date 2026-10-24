@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kencloud",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6693a43d-892d-4340-9cc5-beddeb82b6f6",
+			"database_name": "kencloud-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
